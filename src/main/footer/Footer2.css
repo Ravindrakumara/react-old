@@ -1,0 +1,40 @@
+.footer{
+    background-color:#ff3547;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    height: 150px;
+
+}
+
+.contact{
+    color:#ffffff;
+    text-decoration:none;
+    flex-direction: column;
+    padding-left:50px;
+}
+.detail{
+    padding-left:150px;
+    color:#f9fc46;
+    text-decoration:none;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center; 
+}
+
+.foot_lower{
+    background-color:yellow;
+    text-align: center;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color: white;
+    height: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white ;
+    color: red;
+    text-align: center;
+}

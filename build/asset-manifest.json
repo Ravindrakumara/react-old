@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.813a1aa3.chunk.css",
+    "main.js": "/static/js/main.c98958f3.chunk.js",
+    "main.js.map": "/static/js/main.c98958f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc21bb0a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc21bb0a.js.map",
+    "static/css/2.1a6b0a3c.chunk.css": "/static/css/2.1a6b0a3c.chunk.css",
+    "static/js/2.a4d42010.chunk.js": "/static/js/2.a4d42010.chunk.js",
+    "static/js/2.a4d42010.chunk.js.map": "/static/js/2.a4d42010.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cdeadae73bd019bf2d207f6cb8754cb4.js": "/precache-manifest.cdeadae73bd019bf2d207f6cb8754cb4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1a6b0a3c.chunk.css.map": "/static/css/2.1a6b0a3c.chunk.css.map",
+    "static/css/main.813a1aa3.chunk.css.map": "/static/css/main.813a1aa3.chunk.css.map",
+    "static/js/2.a4d42010.chunk.js.LICENSE.txt": "/static/js/2.a4d42010.chunk.js.LICENSE.txt",
+    "static/media/Ebook.PNG": "/static/media/Ebook.7950632a.PNG",
+    "static/media/One.jpg": "/static/media/One.b432bca8.jpg",
+    "static/media/Two.png": "/static/media/Two.c9bd8890.png",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc21bb0a.js",
+    "static/css/2.1a6b0a3c.chunk.css",
+    "static/js/2.a4d42010.chunk.js",
+    "static/css/main.813a1aa3.chunk.css",
+    "static/js/main.c98958f3.chunk.js"
+  ]
+}
