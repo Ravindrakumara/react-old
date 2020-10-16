@@ -11,7 +11,7 @@ class MultiCarouselPage extends Component {
     };
     async componentDidMount() {
         try {
-            const res = await fetch('http://127.0.0.1:8000/api/Book/'); // fetching the data from api, before the page loaded
+            const res = await fetch('https://djangotestapifor.herokuapp.com/api/Book/'); // fetching the data from api, before the page loaded
             const books = await res.json();
             this.setState({
                 books
